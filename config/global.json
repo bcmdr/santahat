@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "SantaHat": {
+            "applicationId": "zQeG9Wt4kUvMgI9MoR9NljuIP371FafLSn94YbNn", 
+            "masterKey": "AwP0UGmPNfNUrwzUQO6mmE53SkTHWns5IAEpX3SW"
+        }, 
+        "_default": {
+            "link": "SantaHat"
+        }
+    }
+}
